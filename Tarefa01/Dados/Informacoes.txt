@@ -1,0 +1,3 @@
+NivelConsistencia: 1 = Bruto, 2 = Consistido
+TipoMedicaoChuvas: 1 = Pluviômetro, 2 = Pluviógrafo, 3 = Data logger
+Status: 0 = Branco, 1 = Real, 2 = Estimado, 3 = Duvidoso, 4 = Acumulado
